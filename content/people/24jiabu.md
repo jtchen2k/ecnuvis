@@ -1,12 +1,11 @@
 ---
 name: 卜佳
 nameAlt: Jia Bu
-image: 20jiabu.jpeg
-category: undergraduate
-year: 2020
+image: 24jiabu.png
+category: master
+year: 2024
 description:
 github: https://github.com/anran317
 homepage:
-email:
+email: 51275901141@stu.ecnu.edu.cn
 ---
-
