@@ -22,6 +22,14 @@ export type IRootLayoutProps = {
 // export async function generateMetadata({params, searchParams}: ) {
 // }
 
+export const metadata = {
+  title: 'ECNUVIS',
+  description: 'Visualization Lab at East China Normal University.',
+  icons: {
+    icon: '/favicon.ico',
+  },
+};
+
 export default function RootLayout(props: IRootLayoutProps) {
   return (
     <html lang="en,zh-CN">
