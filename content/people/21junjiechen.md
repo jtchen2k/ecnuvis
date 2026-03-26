@@ -2,7 +2,7 @@
 name: 陈俊杰
 nameAlt: Junjie Chen
 image: 21junjiechen.jpeg
-category: master
+category: alumni
 year: 2021
 description: Augmented Reality
 github: https://github.com/jjaychen1e/

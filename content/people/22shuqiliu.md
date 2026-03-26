@@ -2,7 +2,7 @@
 name: 刘淑琪
 nameAlt: Shuqi Liu
 image: 22shuqiliu.jpeg
-category: master
+category: alumni
 year: 2022
 description: Visualization Design
 github: https://github.com/Shuqi-67

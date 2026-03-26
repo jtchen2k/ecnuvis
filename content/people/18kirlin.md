@@ -2,7 +2,7 @@
 name: 李柯林
 nameAlt: Kirlin Li
 image: 18kirlin.png
-category: phd
+category: alumni
 year: 2018
 description: Data Vis, Visual Design, Human-machine System
 github: https://github.com/KirlinL

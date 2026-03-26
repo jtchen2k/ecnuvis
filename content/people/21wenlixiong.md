@@ -2,7 +2,7 @@
 name: 熊文莉
 nameAlt: Wenli Xiong
 image: 21wenlixiong.jpg
-category: master
+category: alumni
 year: 2021
 description:
 github:
