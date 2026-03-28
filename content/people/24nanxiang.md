@@ -1,7 +1,7 @@
 ---
 name: 项楠
 nameAlt: Nan Xiang
-image: 24nanxiang.jpg
+image: 24nanxiang.jpeg
 category: master
 year: 2024
 description: Computer Graphics

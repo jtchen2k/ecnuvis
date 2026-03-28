@@ -1,7 +1,7 @@
 ---
 name: 卜佳
 nameAlt: Jia Bu
-image: 24jiabu.png
+image: 24jiabu.jpeg
 category: master
 year: 2024
 description:
