@@ -1,7 +1,7 @@
 ---
 name: 沈溢鼎
 nameAlt: Yiding Shen
-image: 26yidingshen .jpg
+image: 23yidingshen.jpeg
 category: master
 year: 2023
 description:
